@@ -1,5 +1,5 @@
 # Udacity-VR-Nano-Degree-Project-3-Maze
-Temple Maze VR experience. To win, find a key to unlock the temple door. See if you can collect all of the coins!
+Maze is a mobile VR application using Unity and the Google VR SDK. The user explores a maze environment in search of a key to unlock a temple door. The project showcases working knowledge of 2D and 3D UI, waypoint based navigation, procedural animation, interactive objects, spatial audio, particle effects, and persistent storage of session data.
 
 # Temple Maze VR
 
