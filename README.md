@@ -1,5 +1,5 @@
 # Udacity-VR-Nano-Degree-Project-3-Maze
-Maze is a mobile VR application using Unity and the Google VR SDK. The user explores a maze environment in search of a key to unlock a temple door. The project showcases working knowledge of 2D and 3D UI, waypoint based navigation, procedural animation, interactive objects, spatial audio, particle effects, and persistent storage of session data.
+Maze is a mobile VR application using Unity and the Google VR SDK. The user explores a maze environment in search of a key to unlock a temple door.
 
 # Temple Maze VR
 
